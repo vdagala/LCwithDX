@@ -1,0 +1,527 @@
+[
+    [
+        "/Users/vdagala/LCwithDX/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521611443125,
+            "changeTime": 1521611443125,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521611443125,
+            "changeTime": 1521611443125,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521611443126,
+            "changeTime": 1521611443126,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1521612775650,
+            "changeTime": 1521612775650,
+            "contentHash": "9bc881e80345b892e0143da85674db08d0116c64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1521612683063,
+            "changeTime": 1521612683063,
+            "contentHash": "00f9ba9f899b44dda60b00285f637aca8377c60b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1521612683061,
+            "changeTime": 1521612683061,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 849,
+            "modifiedTime": 1521612716051,
+            "changeTime": 1521612716051,
+            "contentHash": "f459c652af2a3b4b125632c5d2cba3a1cfdda555",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1521612683055,
+            "changeTime": 1521612683055,
+            "contentHash": "27e5bc95f270c8c568ad6a6177e47d73af5804a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1521612683057,
+            "changeTime": 1521612683057,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1521612683063,
+            "changeTime": 1521612683063,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1521612683060,
+            "changeTime": 1521612683060,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1521612683055,
+            "changeTime": 1521612683055,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1521612683056,
+            "changeTime": 1521612683056,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1521612683059,
+            "changeTime": 1521612683059,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1521612421491,
+            "changeTime": 1521612421491,
+            "contentHash": "73fe0c92c7485bfd6b41a5c77fcf9ccd139275eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1521612421487,
+            "changeTime": 1521612421487,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 701,
+            "modifiedTime": 1521612724000,
+            "changeTime": 1521612724719,
+            "contentHash": "b6edae34c6e18b8ba4bb194610f81d1015ba1699",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1521612421468,
+            "changeTime": 1521612421468,
+            "contentHash": "86961f39fca3ec350271a2efb881177f5d0cdcce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1521612421477,
+            "changeTime": 1521612421477,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1521612421491,
+            "changeTime": 1521612421491,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1521612421483,
+            "changeTime": 1521612421483,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1521612421470,
+            "changeTime": 1521612421470,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1521612421474,
+            "changeTime": 1521612421474,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1521612421479,
+            "changeTime": 1521612421479,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1521612775667,
+            "changeTime": 1521612775667,
+            "contentHash": "da50f9eb6cbc0f4491efea8bcc991ef6a3801fda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1521612775665,
+            "changeTime": 1521612775665,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1055,
+            "modifiedTime": 1521612810000,
+            "changeTime": 1521612810038,
+            "contentHash": "098212e9ea6e413a7a9101746c343532b1f6d8f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1521612775653,
+            "changeTime": 1521612775653,
+            "contentHash": "ad19a738bcca7ccb2dc498cdafbdb539f94f8e4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1521612775659,
+            "changeTime": 1521612775659,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1521612775667,
+            "changeTime": 1521612775667,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1521612775664,
+            "changeTime": 1521612775664,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 132,
+            "modifiedTime": 1521612863000,
+            "changeTime": 1521612863869,
+            "contentHash": "56dcb0350b9d63f24803e671caf850a8c2d250b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1521612775656,
+            "changeTime": 1521612775656,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1521612775663,
+            "changeTime": 1521612775663,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vdagala/LCwithDX",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vdagala/LCwithDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1521611586130,
+            "changeTime": 1521611586130,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
